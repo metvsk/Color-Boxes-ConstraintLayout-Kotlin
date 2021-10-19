@@ -9,5 +9,5 @@ Kotlin Codelab <br>
 Screenshot
 
 <div align="center">
-    <img src="/screenshots/shot1.jpg" width="200px"</img>
+    <img src="/screenshot/shot1.jpg" width="200px"</img>
 </div>
