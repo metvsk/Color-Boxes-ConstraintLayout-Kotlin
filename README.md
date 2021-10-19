@@ -6,7 +6,8 @@ Kotlin Codelab <br>
 - Styling of items <br>
 - Rounded corners<br>
 <br>
-###Screenshot
+Screenshot
+
 <div align="center">
     <img src="/screenshots/shot1.jpg" width="200px"</img>
 </div>
