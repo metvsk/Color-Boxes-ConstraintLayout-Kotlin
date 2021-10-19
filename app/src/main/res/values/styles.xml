@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="greenBox">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/box_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">@font/amiko</item>
+        <item name="android:layout_margin">@dimen/margin_wide</item>
+        <item name="android:background">@drawable/rounded_corner</item>
+        <item name="android:padding">@dimen/padding</item>
+
+
+    </style>
+    <style name="blackBox">
+        <item name="android:background">@drawable/rounded_corner2</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/box_text_size</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+        <item name="android:layout_margin">@dimen/margin_wide</item>
+        <item name="android:padding">15sp</item>
+    </style>
+
+</resources>
