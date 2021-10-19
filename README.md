@@ -1,4 +1,4 @@
-<div><img src="/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="150px"</img></div>
+<div><img src="app/src/main/res/drawable/icon.png" width="100px"</img></div>
 # Color-Boxes-ConstraintLayout-Kotlin<br>
 Kotlin Codelab <br>
 - Constraint Layout <br>
@@ -8,5 +8,5 @@ Kotlin Codelab <br>
 <br>
 ###Screenshot
 <div align="center">
-    <img src="/screenshots/shot1.jpg" width="400px"</img>
+    <img src="/screenshots/shot1.jpg" width="200px"</img>
 </div>
